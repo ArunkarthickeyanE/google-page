@@ -1,0 +1,45 @@
+.main{
+    margin-top: 200px;
+}
+img{
+    display: block;
+    width: 300px;
+    height:100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:450px;
+    height:35px;
+    padding-left:20px;
+    margin-top: 30px;
+    background-color:rgb(254, 245, 233);
+    border:none;
+    border-radius: 20px;
+}
+input:hover{
+    cursor: text;
+    border: none;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+button{
+    margin-left: 10px;
+    margin-right: 10px;
+    width:100px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+button:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}
